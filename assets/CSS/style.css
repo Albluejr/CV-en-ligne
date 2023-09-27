@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+@font-face {
+    font-family: "Raleway" ;
+    src: url('../assets/Fonts/Raleway-VariableFont_wght.woff');
+    src: url('../Fonts/Raleway-VariableFont_wght.ttf') format('truetype');
+}
+hgroup{
+    font-family: "lato", serif;
+}
+
+p{
+    font-family: "raleway", serif;
+}
