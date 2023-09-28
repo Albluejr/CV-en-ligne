@@ -56,3 +56,24 @@ section{
     height: 10%;
     background-color: #782221;
 }
+
+#portrait{
+    border-radius: 60%;
+    max-width: 10%;
+    display: flex;
+    margin: auto;
+    margin-top: 0.5%;
+}
+
+#presentation{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    color: white;
+}
+
+#infos{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
