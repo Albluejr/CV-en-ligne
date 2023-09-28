@@ -13,6 +13,14 @@ p{
     font-family: "raleway", serif;
 }
 
+ul{
+    font-family: "raleway", serif;
+}
+
+em{
+    font-family: "raleway", serif;
+}
+
 section{
     height: 1160px;
     border: 3px  solid black;
@@ -89,4 +97,17 @@ section{
     color: white;
     margin-left: 1.5rem;
     margin-right: 5rem;
+}
+
+#experience-list{
+    list-style-type: circle;
+}
+
+#skills{
+    display: flex;
+    justify-content: space-around;
+}
+
+#network{
+    
 }
